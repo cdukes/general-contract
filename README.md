@@ -1,4 +1,4 @@
-inneo-general-contract
+Inneo - General Contract
 ======================
 
-My plain English general development contract.
+The plain English general development contract I use for all my clients. Also includes some additional 'getting started' client material.

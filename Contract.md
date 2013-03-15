@@ -1,6 +1,6 @@
 # Contract
 
-**Standard Hourly Rate**: 
+**Standard Hourly Rate**: USD XX/hr
 	
 **Purpose**: I will always do my best to fulfill your needs and meet your goals, but sometimes it's best to have a few things written down so that we both know what's what, who should do what, and what happens if stuff goes wrong. In this contract you won't find complicated legal terms or long passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I do want what's best for the safety of both parties, now and in the future. **I hope you’ll read this contract thoroughly, and ask me about anything that’s unclear to you.**
 	
@@ -9,7 +9,7 @@
 ## What do both parties agree to do?
 As my client, you affirm that you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I'll need to complete projects, including text, images and information, as and when I need it and in the format I ask for. You agree to review my work and provide feedback and approval in a timely manner. **Deadlines work both ways and you'll also be bound by any dates that we set together. You also agree to stick to the payment schedule at the end of this contract.**
 	
-I affirm that I have the experience and/or ability to perform the services you need from me and that I will carry them out in a professional and timely manner. Should you require services that are beyond my capabilities, I promise to tell you so and do my best to recommend resources to you. I will endeavor to meet all the deadlines set, but **I cannot be responsible for a missed launch date or deadline if you have been late in supplying materials or have not approved or signed off on my work on-time at any stage.** I'll also maintain the confidentiality of any information that you give me.
+I affirm that I have the experience and/or ability to perform the services you need from me and that I will carry them out in a professional and timely manner. Should you require services that are beyond my capabilities, I promise to tell you so and do my best to recommend resources to you. I will endeavor to meet all the deadlines set, but **I cannot be responsible for a missed launch date or deadline if you have been late in supplying materials or have not approved or signed off on my work on-time at *any* stage.** I'll also maintain the confidentiality of any information that you give me.
 
 ## Content & Purchases
 **I am not responsible for writing or inputting any text, images, video, etc, unless otherwise agreed.** Generally, you are responsible for making any project-related purchases such as themes, photos, or hosting, though I will often do this for you if requested (and add the amount to your next invoice). You will supply me photographs in a standard digital format (.png, .jpg, .gif, etc.). If you choose to buy stock media, I can suggest vendors and sizes. Any time I spend searching for appropriate media will be charged at my standard hourly rate. Please refer to my [Content Provisioning Guidelines](http://www.blog.inneosg.com/development/wordpress/content-provisioning-guidelines/) for more detailed suggestions on how to provide content.
