@@ -2,17 +2,21 @@
 
 **Standard Hourly Rate**: USD XX/hr
 	
-**Purpose**: I will always do my best to fulfill your needs and meet your goals, but sometimes it's best to have a few things written down so that we both know what's what, who should do what, and what happens if stuff goes wrong. In this contract you won't find complicated legal terms or long passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I do want what's best for the safety of both parties, now and in the future. **I hope you’ll read this contract thoroughly, and ask me about anything that’s unclear to you.**
+**Purpose**: I'll always do my best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won't find complicated legal terms or long passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I do want what's best for both parties, now and in the future. **I hope you’ll read this contract thoroughly, and ask me about anything that’s unclear to you.**
 	
 **In short**: You are hiring me to provide you with ongoing business technology strategy services. The work we do together will hopefully continue for a long time over many projects, and as such, this contract will not contain project details. Instead, the purpose of this contract is to outline general terms for our professional relationship, applicable to any work we do together.
 
 ## What do both parties agree to do?
 As my client, you affirm that you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I'll need to complete projects, including text, images and information, as and when I need it and in the format I ask for. You agree to review my work and provide feedback and approval in a timely manner. **Deadlines work both ways and you'll also be bound by any dates that we set together. You also agree to stick to the payment schedule at the end of this contract.**
 	
-I affirm that I have the experience and/or ability to perform the services you need from me and that I will carry them out in a professional and timely manner. Should you require services that are beyond my capabilities, I promise to tell you so and do my best to recommend resources to you. I will endeavor to meet all the deadlines set, but **I cannot be responsible for a missed launch date or deadline if you have been late in supplying materials or correct credentials, or have not approved or signed off on my work on-time at *any* stage.** I'll also maintain the confidentiality of any information that you give me.
+I affirm that I have the experience and/or ability to perform the services you need from me and that I will carry them out in a professional and timely manner. Should you require services that are beyond my capabilities, I will tell you so and do my best to recommend resources to you. I will endeavor to meet all the deadlines set, but **I cannot be responsible for a missed launch date or deadline if you have been late in supplying materials or correct credentials, or have not approved or signed off on my work on-time at *any* stage.** I'll also maintain the confidentiality of any information that you give me.
 
 ## Content & Purchases
-**I am not responsible for writing or inputting any text, images, video, etc, unless otherwise agreed.** Generally, you are responsible for making any project-related purchases such as themes, photos, or hosting, though I will often do this for you if requested (and add the amount to your next invoice). You will supply me photographs in a standard digital format (.png, .jpg, .gif, etc.). If you choose to buy stock media, I can suggest vendors and sizes. Any time I spend searching for appropriate media will be charged at my standard hourly rate. Please refer to my [Content Provisioning Guidelines](https://github.com/Inneo/inneo-general-contract/blob/master/Content%20Provisioning%20Guidelines.md) for more detailed suggestions on how to provide content.
+**I am not responsible for writing or inputting any text, images, video, etc, unless otherwise agreed.** Generally, you are responsible for making any project-related purchases such as themes, photos, or hosting, though I will often do this for you if requested (and add the amount to your next invoice).
+
+You will supply me photographs in a standard digital format (.png, .jpg, .gif, etc.). If you choose to buy stock media, I can suggest vendors and sizes. Any time I spend searching for appropriate media will be charged at my standard hourly rate. 
+
+Please refer to my [Content Provisioning Guidelines](https://github.com/Inneo/inneo-general-contract/blob/master/Content%20Provisioning%20Guidelines.md) for more detailed suggestions on how to provide content.
 	
 ## Technical Support
 I am not a web hosting service and typically do not offer or include technical support for website hosting, email, or other services relating to website hosting. However, **I do warrant that work I provide to you will continue to function as intended. Any updates or revisions you perform yourself run the risk of breaking it in ways I will not be held responsible for**, but I will do my best to help you fix the problems, if asked. I will charge you at my standard hourly rate for technical support for problems not directly caused by my work, or for errors caused by my work not brought to my attention within three months of project completion.
@@ -70,8 +74,6 @@ If you want to cancel the project, then I certainly won’t force you to complet
 ## Termination Due to Inactivity
 Additionally, I retain the right to unilaterally terminate this agreement if more than 10 business days pass after the agreed upon project deadline and the project has not been completed due to significant delays caused by your failure to provide me with requested content, feedback, or work sign-offs. 'Significant delays' here are understood to mean situations where more than 50% of the total length of the project, in days, are spent waiting on actions from you. If I exercise this clause, you agree to pay me for the hours I worked between the date of my written notice of termination and your last payment, at my standard hourly rate. Note that clause only applies for fixed-rate projects.
 
-___
-
 ## Browser Compatibility
 The landscape of web browsers and devices changes regularly and my approach is to look forward, not back. With that in mind I will test any markup and CSS that I make for you in the current stable version of the four major desktop browsers by market share, as well as in iOS. Users of older or less capable browsers or devices will experience a design that is appropriate to the capabilities of their software.
 		
@@ -79,7 +81,7 @@ I am happy to design your site responsively, so that it will dynamically restyle
 						
 For Microsoft Internet Explorer 8, I guarantee layout compatibility, meaning that site elements will appear where they should be on the page, but they probably will not look as good as on modern browsers. (For example, IE8 doesn't render shadows, gradients, or rounded corners.)
 						
-I will not test old or abandoned browsers, for example Microsoft Internet Explorer 6 or 7 or previous versions of Apple's Safari, Mozilla Firefox, or Google Chrome. If you need me to consider these older browsers, I will charge you at my standard hourly rate.
+I do not test on Microsoft Internet Explorer 6 or 7, or previous versions of Apple's Safari, Mozilla Firefox, or Google Chrome. If you need me to consider these older browsers, I will charge you at my standard hourly rate.
 
 ## Design Fidelity
 If you're hiring me to code your wireframes, PSDs, or other designs, please understand that my role as a developer is one of a translator. I break down the designs you provide and rebuild them in a different medium, taking into account constraints such as browser compatibility, accessibility, performance, and possible use-cases. As such, the finished web product will rarely be a 'pixel perfect' replica of your design, but rather a 'reasonable translation' of it. I'll do my best to match your original and address any specific differences you note, but I want the product I develop for you to load fast, adjust to any content you give it, use quality code, and be usable for as many people as possible - all in addition to looking great.
