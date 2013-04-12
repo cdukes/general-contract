@@ -36,7 +36,7 @@ When I receive your final payment for a project, copyright is automatically assi
 - You own any graphics and other visual elements that I create for you. I will give you a copy of all files, if requested, and you should store them safely, as I am not required to keep them.
 - You also own text content, photographs and other data you provided, unless someone else does.
 - I reserve the right to reuse any code or technique I developed for your project. The purpose of this is so that I don’t have to solve the same problem from scratch twice.
-- I reserve the right to display and link to your completed project as part of my portfolio and to write about the project on websites, in articles, and in books about web design.
+- I reserve the right to display and link to your completed project as part of my portfolio and to write about the project in a non-derogatory context on websites, in articles, and in books about web design.
 
 ## Confidentiality
 I will not share your credentials, account information, files, or business processes without your explicit authorization. I will do my best to guarantee the safety of any data you provide to me, including use of the SFTP protocol to access your server when available, generating randomized passwords for any accounts I create for you, and password-protecting any files I store locally in the course of my work for you. As far as long-term file retention is concerned, I try to only store copies of milestones in our development process, stripped of any sensitive information, for reference and learning purposes.
