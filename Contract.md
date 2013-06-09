@@ -1,6 +1,6 @@
-# Contract
+# General Contract
 
-**Standard Hourly Rate**: USD XX/hr
+**Standard Hourly Rate**: 
 	
 **Purpose**: I'll always do my best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won't find complicated legal terms or long passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I do want what's best for both parties, now and in the future. **I hope you’ll read this contract thoroughly, and ask me about anything that’s unclear to you.**
 	
@@ -89,7 +89,4 @@ If you're hiring me to code your wireframes, PSDs, or other designs, please unde
 ## Revision
 You will have the opportunity to make up to **two rounds of revisions**, within scope. If you're not happy with the project at this stage, you will pay me in full for all of the work I have produced until that point and you may either cancel this project or continue to commission me to make further revisions at my standard rate. 
 
-Although I may show you the in-development product, I prefer to wait until development is mostly finished to ask you for these revisions, so that you don't have spend time reporting issues I already know about.
-
-## Acceptance of Contract
-*The action of sending and receipt of this agreement via electronic method will hold both of us in acceptance of these terms. I, as sender, and you, as recipient, will acknowledge acceptance of these terms either through an e-mail noting acceptance, a physical signature, or acceptance is acknowledged at the beginning of any work on said project. Electronic signatures shall be considered legal and binding.*
+Although I may show you the in-development product, I prefer to wait until development is mostly finished to ask you for these revisions, so that you don't have spend time reporting issues I already know about.=
