@@ -51,8 +51,10 @@ For ongoing work, I am generally able to turn individual task items around in 24
 ## Payments
 I'm sure you understand how important it is that you pay the invoices that I send you promptly. As I'm also sure you'll want to stay friends, you agree to stick tight to the payment schedule we agree upon. Should you choose to pay via credit card, **you agree to pay the cost of merchant fees** (about 3% for PayPal), in addition to the invoiced amount. You are also responsible for any cross-border transaction fees. I will include these expenses in your invoice.
 	
-For ongoing work, I typically invoice around the middle and the end of the month. For project work, payment terms will be outlined in the project proposal. **All invoices are payable within 15 business days of receipt, and a USD 40 service charge is payable on all overdue balances for reissuing each invoice at 30, 45, 60, 75 and 90 days from the date of original invoice.**
-	
+For ongoing work, I typically invoice around the middle and the end of the month. For project work, payment terms will be outlined in the project proposal. **All invoices are payable within 15 business days of receipt, and a USD 40 service charge is payable on all overdue balances for reissuing each invoice at 30, 45, 60, 75 and 90 calendar days from the date of original invoice.**
+
+If I'm doing work for one of your client projects, please note that I still get paid according to our agreed upon terms, not when your client pays you.
+
 ## Foreign Payments
 Since I am an American living in Singapore, running a Singaporean company and dealing with many US clients, I try to bill all non-local clients in USD for everyone’s convenience. Invoices may list a US mailing address and/or instruct you to make checks payable to "Inneo, LLC". This is my US company, which holds the money on behalf of Inneo Pte. Ltd. and helps facilitate the regular transfer of income into SDG. Regardless of the payable company, the work is being done by Inneo Pte. Ltd.
 	
