@@ -7,25 +7,25 @@
 **In short**: You are hiring me to provide you with ongoing business technology strategy services. The work we do together will hopefully continue for a long time over many projects, and as such, this contract will not contain project details. Instead, the purpose of this contract is to outline general terms for our professional relationship, applicable to any work we do together.
 
 ## What do both parties agree to do?
-As my client, you affirm that you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I'll need to complete projects, including text, images and information, as and when I need it and in the format I ask for. You agree to review my work and provide feedback and approval in a timely manner. **Deadlines work both ways and you'll also be bound by any dates that we set together. You also agree to stick to the payment schedule terms in this contract.**
+As my client, you affirm that you have the *power and ability* to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I'll need to complete projects, including text, images, and information, as and when I need it and in the format I ask for. You agree to review my work and provide feedback and approval in a timely manner. **Deadlines work both ways and you'll also be bound by any dates that we set together. You also agree to stick to the payment schedule terms in this contract.**
 
 I affirm that I have the experience and/or ability to perform the services you need from me and that I will carry them out in a professional and timely manner. Should you require services that are beyond my capabilities, I will tell you so and do my best to recommend resources to you. I will endeavor to meet all the deadlines mutually agreed upon, but **I cannot be responsible for a missed launch date or deadline if you have been late in supplying materials or correct credentials, or have not approved or signed off on my work on-time at *any* stage.**
 
 ## Content & Purchases
 **I am not responsible for writing or inputting any text, images, video, etc, unless otherwise agreed.** Generally, you are responsible for making any project-related purchases such as themes, photos, or hosting, though I will often do this for you if requested (and add the amount to your next invoice).
 
-Please refer to my [Content Provisioning Guidelines](https://github.com/Inneo/inneo-general-contract/blob/master/Content%20Provisioning%20Guidelines.md) for detailed recommednations on how to provide content.
+Please refer to my [Content Provisioning Guidelines](https://github.com/Inneo/inneo-general-contract/blob/master/Content%20Provisioning%20Guidelines.md) for detailed recommendations on how to provide content.
 
 ## Technical Support
 I am not a web hosting service and typically do not offer or include technical support for website hosting, email, or other services relating to website hosting. However, **I do warrant that deliverables I provide to you will continue to function as intended. Any updates or revisions you perform yourself run the risk of breaking it in ways I will not be held responsible for**, but I will do my best to help you fix the problems, if asked. I will charge you at my standard hourly rate for technical support for problems not directly caused by my work, or for errors caused by my work not brought to my attention within 90 days of development completion.
 
 ## Liability
-I cannot guarantee that my work will always be error-free and so I can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential, or special damages arising out of the operation of or inability to use the products I provide you with, even if you have advised me of the possibilities of such damages.
+I cannot guarantee that my work will always be error-free and so I can't be liable to you or any third party for damages, including lost profits, lost savings, or other incidental, consequential, or special damages arising out of the operation of or inability to use the products I provide you with, even if you have advised me of the possibilities of such damages.
 
 **You agree to regularly change all relevant passwords (FTP, website, host, databases, etc.) after I no longer need the access in question** and that I can't be held liable for any security breaches resulting from your failure to do so.
 
 ## Copyrights
-You guarantee to me that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide me with are either owned by you, or that you have permission to use them.
+You guarantee to me that any elements of text, graphics, photos, designs, trademarks, or other assets that you provide me with are either owned by you, or that you have permission to use them.
 
 You acknowledge that some of the images, code, templates, or other elements that I use may be provided by a third-party under a license that requires attribution. You authorize me to include such credit as needed.
 
@@ -39,12 +39,12 @@ When I receive your final payment for a project, copyright is automatically assi
 ## Confidentiality
 I will not share your credentials, account information, files, or business processes without your explicit authorization. I will do my best to guarantee the safety of any data you provide to me, including use of the SFTP protocol to access your server when available, generating randomized passwords for any accounts I create for you, and password-protecting any files I store locally in the course of my work for you. As far as long-term file retention is concerned, I only store copies of milestones in our development process, stripped of any sensitive information, for reference purposes.
 
-For certain tasks (including, but not limited to: design, testing, or content management), I may delegate the work to subcontractors or employees. In this case, I will only give them the access they need to complete the tasks in question. If possible, I will only give them access to a development or staging environment. **If you have systems or accounts that you need only me to have access to, then please inform me of this when or before you give me access.**
+For certain tasks (including, but not limited to design, testing, and content management), I may delegate the work to subcontractors or employees. In this case, I will only give them the access they need to complete the tasks in question. If possible, I will only give them access to a development or staging environment. **If you have systems or accounts that you need *only* me to have access to, then I need to be informed of this when or before you give me access.**
 
 ## Billable Hours
 As your consultant, not all of my time will be spent coding for you. Instead, I’ll likely be talking to you, learning about what you’re trying to accomplish, doing research for you, and recommending and implementing tools for you to use. **Communication and research time is billable, and I will bill you for phone conversations, meetings, lengthy explanatory emails, and/or research.**
 
-I will keep a timesheet of time spent per activity, date, and your balance for you to access at will, for all work billed hourly. (Note that I do not share my timesheets for fixed price work.)
+I will keep a timesheet of time spent per activity, date, and your balance for you to access at will, for all work billed hourly. (Note that I do not share my timesheets for fixed price work.) 
 
 Work done by subcontractors or employees follows the same guidelines for billability. This work, however, will be billed at 35% of my standard hourly rate, unless we agree otherwise.
 
