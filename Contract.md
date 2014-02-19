@@ -48,7 +48,7 @@ I will keep a timesheet of time spent per activity, date, and your balance for y
 
 Work done by subcontractors or employees follows the same guidelines for billability. This work, however, will be billed at 35% of my standard hourly rate, unless we agree otherwise.
 
-For ongoing work, I am generally able to turn individual task items around in 24-72 hours during the business week. If you need work completed in under a day, tell me and I’ll do my best, schedule and work queue permitting. If you need a **guaranteed** turnaround time of under 24 hours, you will be billed for those hours worked at 1.5 times my standard hourly rate. I will never bill you for rush completion without first receiving your written acknowledgement and approval.
+For ongoing work, I am generally able to turn individual task items around in 24-72 hours during the business week. If you need work completed in under a day, tell me and I’ll do my best, schedule and work queue permitting. If you need a **guaranteed** turnaround time of under 24 hours, you will be billed for those hours worked at 1.75 times my standard hourly rate. I will never bill you for rush completion without first receiving your written acknowledgement and approval.
 
 ## Project Proposals
 When requested or for larger work, I will submit a project proposal for your review and agreement. Project proposals typically include a detailed and comprehensive scope of the work to be done, a timeline for presentation of deliverables, cost, and payment terms. In the event of a contradiction of terms between this contract and the project proposal, the proposal's terms shall supersede the contract's, but only for that project.
