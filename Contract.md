@@ -61,7 +61,7 @@ For ongoing work, I typically invoice biweekly, around the middle and the end of
 If I'm doing work for one of your client projects, please note that I am still to be paid according to the terms above, regardless of your payment terms with your client.
 
 ### Foreign Payments
-Since I am an American living in Singapore, running a Singaporean company and dealing with many US clients, I try to bill all non-local clients in USD for everyone’s convenience. Invoices may list a US mailing address and/or instruct you to make checks payable to "Inneo, LLC". This is my US company, which holds the money on behalf of Inneo Pte. Ltd. and helps facilitate the regular transfer of income into SDG. Regardless of the payable company, the work is being done by Inneo Pte. Ltd.
+Since I am an American living in Singapore, running a Singaporean company and dealing with many US clients, I try to bill all non-local clients in USD for everyone’s convenience. Invoices may list a US mailing address and/or instruct you to make checks payable to "Inneo, LLC". This is my US company, which holds the money on behalf of Inneo Pte. Ltd. and helps facilitate the regular transfer of income into SGD. Regardless of the payable company, the work is being done by Inneo Pte. Ltd.
 
 ### Termination Due to Inactivity
 For fixed-rate projects, I retain the right to unilaterally terminate this agreement if more than 10 business days pass after the agreed upon project deadline and the project has not been completed due to significant delays caused by your failure to provide me with requested content, feedback, or work sign-offs. 'Significant delays' here are understood to mean situations where more than 50% of the total length of the project, in days, are spent waiting on actions from you.
