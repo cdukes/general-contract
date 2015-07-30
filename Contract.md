@@ -77,7 +77,7 @@ The landscape of web browsers and devices changes regularly and my approach is t
 
 I am happy to design your site responsively, so that it will dynamically restyle to better fit different device sizes. However, I don't code responsive design by default, so please let me know if you want this feature as early as possible, since it will likely change my development approach and cost estimate.
 
-For Microsoft Internet Explorer 8, I guarantee layout compatibility, meaning that site elements will appear where they should be on the page, but they probably will not look as good as on modern browsers. (For example, IE8 doesn't render shadows, gradients, or rounded corners.)
+For Microsoft Internet Explorer 8, I guarantee core content compatibility, meaning that the webpage's main body content will render and be readable. Sites viewed in IE8 will not look as good as on newer browsers, since it doesn't support *many* modern features - for example, vector graphics, flexible layouts, shadows, gradients, and rounded corners.
 
 I do not test on Microsoft Internet Explorer 6 or 7, or previous versions of Apple's Safari, Mozilla Firefox, or Google Chrome. If you need me to consider these older browsers, I will charge you at my standard hourly rate.
 
