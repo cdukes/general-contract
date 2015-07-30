@@ -58,7 +58,7 @@ I'm sure you understand how important it is that you pay the invoices that I sen
 
 For ongoing work, I typically invoice biweekly, around the middle and the end of the month. For project work, payment terms will be outlined in the project proposal. **All invoices are payable within 15 business days of receipt.** A USD 40 late payment fee will be added to all overdue balances at 30 calendar days from the date of original invoice, and an additional USD 40 will be added every 15 calendar days thereafter, until the invoice is paid in full, including late payment fees.
 
-You agree to notify me in writing of any billing discrepancies within 5 days of receiving the invoice. Invoiced amounts will be deemed undisputed if no notice is given within this time.
+You agree to notify me via email of any billing discrepancies within 5 days of receiving the invoice. Invoiced amounts will be deemed undisputed if no notice is given within this time.
 
 If I'm doing work for one of your client projects, please note that I am still to be paid according to the terms above, regardless of your payment terms with your client.
 
