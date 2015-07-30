@@ -62,6 +62,8 @@ You agree to notify me via email of any billing discrepancies within 5 days of r
 
 If I'm doing work for one of your client projects, please note that I am still to be paid according to the terms above, regardless of your payment terms with your client.
 
+All contracts, proposals, and invoices will be denominated in USD or SGD. If you're paying in a currency other than one of these, you are responsible for all bank and conversion fees. 
+
 ### Foreign Payments
 Since I am an American living in Singapore, running a Singaporean company and dealing with many US clients, I try to bill all non-local clients in USD for everyone’s convenience. Invoices may list a US mailing address and/or instruct you to make checks payable to "Inneo, LLC". This is my US company, which holds the money on behalf of Inneo Pte. Ltd. and helps facilitate the regular transfer of income into SGD. Regardless of the payable company, the work is being done by Inneo Pte. Ltd.
 
