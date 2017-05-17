@@ -1,8 +1,8 @@
-This Master Services Agreement (the “Agreement”) is entered into as of _______________, 20__, (the “Effective Date”) by and between CDBTech, LLC, a North Carolina limited liability company (the “Company”, “I”, or “We”), and _______________, a _______________ (the “Client” or “You”).
+This Master Services Agreement (the “Agreement”) is entered into as of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_, (the “Effective Date”) by and between CDBTech, LLC, a North Carolina limited liability company (the “Company”, “I”, or “We”), and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Client” or “You”).
 
 # General Contract
 
-**Standard Hourly Rate**:
+**Standard Hourly Rate**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Purpose**: I’ll always do my best to fulfill your needs and meet our agreed upon expectations, but it’s important to have things written down so that we both know the terms of our relationship, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find complicated legal terms or long passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I do want what’s best for both parties, now and in the future, and to clearly outline the terms of our engagement and the expectations of both parties. **Please read this contract thoroughly, and ask me about anything that’s unclear to you.**
 
@@ -93,12 +93,12 @@ The landscape of web browsers and devices changes regularly and my approach is t
 
 For example, as of May 15, 2017, browser coverage would be: 
 
-– Chrome 58 (tested), with any bugs in v57 covered 
-– Firefox 53 (tested), with any bugs in v52 covered 
-– Safari 10 (tested), with any bugs in v9 covered 
-– iOS Safari 10 (tested on an iPad and iPhone, in portrait and landscape modes), with any bugs in v9 covered 
-– Edge 40 (tested), with any bugs in v39 covered 
-– Internet Explorer 11 (tested)
+- Chrome 58 (tested), with any bugs in v57 covered 
+- Firefox 53 (tested), with any bugs in v52 covered 
+- Safari 10 (tested), with any bugs in v9 covered 
+- iOS Safari 10 (tested on an iPad and iPhone, in portrait and landscape modes), with any bugs in v9 covered 
+- Edge 40 (tested), with any bugs in v39 covered 
+- Internet Explorer 11 (tested)
 
 If you need me to consider other or older browsers, I will charge you at my standard hourly rate.
 
@@ -131,3 +131,5 @@ No changes, modifications or amendments of any term of this contract will be val
 This contract shall be interpreted under the laws of the State of North Carolina. The Parties agree that the location and jurisdiction for any dispute arising under this Agreement shall be proper only in any federal or state court located only in Durham County, North Carolina.
 
 This contract, together with any agreed upon Scope of Work addendums or Change Orders, is the entire agreement between the Parties relating to the subject matter covered in the contract. The Parties will not be bound by or liable for any statement, writing, representation, promise, or understanding not set forth in the contract or an agreed upon project proposal or change order.
+
+_[Remaining of Page Intentionally Blank; Signatures Follow]_
