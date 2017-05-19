@@ -1,4 +1,4 @@
-This Master Services Agreement (the “Agreement”) is entered into as of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_, (the “Effective Date”) by and between CDBTech, LLC, a North Carolina limited liability company (the “Company”, “I”, or “We”), and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Client” or “You”).
+This Master Services Agreement (the “Agreement”) is entered into as of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, (the “Effective Date”) by and between CDBTech, LLC, a North Carolina limited liability company (the “Company”, “I”, or “We”), and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Client” or “You”).
 
 # General Contract
 
