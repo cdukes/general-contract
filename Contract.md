@@ -57,7 +57,7 @@ As your consultant, not all of my time will be spent coding for you. Instead, I�
 
 For work billed hourly, I will keep a timesheet of time spent per activity, date, and your balance for you to access at will.
 
-For ongoing work, I am generally able to turn individual task items around in 24-72 hours during the business week. If you need work completed in under a day, tell me and I’ll do what I can, schedule and work queue permitting. If you need a **guaranteed** turnaround time of under 24 hours, you will be billed for those hours worked at 2 times my standard hourly rate. I will never bill you for rush completion without first receiving your written acknowledgement and approval.
+For ongoing work, I am generally able to turn individual task items around in 2-4 days during the business week. If you need work completed in under a day, tell me and I’ll do what I can, schedule and work queue permitting. If you need a **guaranteed** turnaround time of under 24 hours, you will be billed for those hours worked at 2 times my standard hourly rate. I will never bill you for rush completion without first receiving your written acknowledgement and approval.
 
 ## Project Proposals
 
