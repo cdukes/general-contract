@@ -89,16 +89,16 @@ If I exercise this clause, you agree to pay me for the hours I worked between th
 
 ### Browser Compatibility
 
-The landscape of web browsers and devices changes regularly and my approach is to look forward, not back. With that in mind I will test any views that I build for you in the current stable version of the four major desktop browsers by market share, as well as in iOS. Users of older or less capable browsers or devices will experience a design that is appropriate to the capabilities of their software.
+The landscape of web browsers and devices changes regularly and my approach is to look forward, not back. With that in mind I will test any views that I build for you in the current stable version of the four major modern desktop browsers by market share, as well as in iOS. Users of older or less capable browsers or devices will experience a design that is appropriate to the capabilities of their software.
 
-For example, as of May 15, 2017, browser coverage would be: 
+For example, as of August 2020, browser coverage would be: 
 
-- Chrome 58 (tested), with any bugs in v57 covered 
-- Firefox 53 (tested), with any bugs in v52 covered 
-- Safari 10 (tested), with any bugs in v9 covered 
-- iOS Safari 10 (tested on an iPad and iPhone, in portrait and landscape modes), with any bugs in v9 covered 
-- Edge 40 (tested), with any bugs in v39 covered 
-- Internet Explorer 11 (tested)
+- Chrome 85 (tested), with any bugs in v84 covered 
+- Safari 13 (tested), with any bugs in v12 covered 
+- iOS Safari 13 (tested on an iPad and iPhone, in portrait and landscape modes), with any bugs in v12 covered 
+- Firefox 80 (tested), with any bugs in v79 covered 
+- Edge 84 (tested), with any bugs in v83 covered 
+- Internet Explorer 11 (not tested)
 
 If you need me to consider other or older browsers, I will charge you at my standard hourly rate.
 
