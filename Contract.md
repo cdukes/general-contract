@@ -1,4 +1,4 @@
-This Master Services Agreement (the “Agreement”) is entered into as of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Effective Date”) by and between CDBTech, LLC, a Virginia limited liability company (the “Company”, “I”, or “We”), and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Client” or “You”).
+This Master Services Agreement (the “Agreement”) is entered into as of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Effective Date”) by and between CDBTech, LLC, a Virginia limited liability company (the “Company” or “I”), and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Client” or “You”).
 
 # General Contract
 
@@ -22,7 +22,7 @@ You are responsible for making any project-related purchases such as themes, pho
 
 ## Technical Support
 
-I am not a web hosting service and do not offer or include technical support for website hosting, email, or other services relating to website hosting. However, **I do warrant that deliverables I provide to you will continue to function as agreed upon in our original Scope of Work for ninety (90) days after development completion. Any updates or revisions you perform yourself run the risk of breaking the deliverables and will void any warranty I have provided.** That said, I will do my best to help you fix the problems if asked. I will charge you at my standard hourly rate for technical support for problems not directly caused by errors in my work, or for errors caused by my work and not brought to my attention within 90 days of development completion.
+I am not a web hosting service and do not offer or include technical support for website hosting, email, or other services relating to website hosting. However, **I do warrant that deliverables I provide to you will continue to function as agreed upon in our original Scope of Work for ninety (90) days after development completion. Any updates or revisions performed by you, or by anyone other than me, run the risk of breaking the deliverables and will void any warranty I have provided.** That said, I will do my best to help you fix the problems if asked. I will charge you at my standard hourly rate for technical support for problems not directly caused by errors in my work, or for errors caused by my work and not brought to my attention within 90 days of development completion.
 
 ## Liability
 
@@ -69,15 +69,20 @@ Changes to a project proposal after your initial review and agreement must be in
 
 I’m sure you understand how important it is that you pay the invoices that I send you promptly. As I’m also sure you’ll want to stay friends, you agree to stick to the payment schedule we agree upon.
 
-For ongoing work, I typically invoice at the end of the month. For project work, payment terms will be outlined in the project proposal. **All invoices are payable within 15 business days of receipt.** If any payment due by you under this Agreement is late by more than thirty (30) days after the date of the invoice, I will be entitled to charge interest on such payment at the maximum legal rate, accruing daily from the invoice date until payment in full, including interest, is made.
+For ongoing work, I typically invoice at the end of the month. For project work, payment terms will be outlined in the project proposal. **All invoices are payable within 15 business days of receipt.** If any amount remains unpaid more than fifteen (15) days after its due date, I will be entitled to charge interest on the overdue amount at a rate of 1.5% per month, or the maximum rate permitted by law, whichever is less, accruing daily from the due date until payment in full, including interest, is made.
 
-You agree to notify me via email of any billing discrepancies within 5 days of receiving the invoice. Invoiced amounts will be deemed undisputed if no written notice is given within this time.
+You agree to notify me via email of any billing discrepancies within five (5) business days of receiving the invoice. Invoiced amounts will be deemed undisputed if no written notice is given within this time.
 
 If I’m doing work for one of your client projects, please note that I am still to be paid according to the terms above, regardless of your payment terms with your client.
 
-All contracts, proposals, and invoices will be denominated in USD or SGD. If you’re paying in a currency other than one of these, you are responsible for all bank and conversion fees.
+All contracts, proposals, and invoices will be denominated in USD. If you’re paying in a different currency, you are responsible for all bank and conversion fees.
 
-In the unlikely event I am forced to submit an unpaid bill to my attorney for collection, you agree that you will be responsible for reimbursing me for the reasonable costs of collection. During the collection process, interest on the balance owed will continue to accrue at the maximum legal rate.
+In the unlikely event I am forced to submit an unpaid bill to my attorney for collection, you agree that you will be responsible for reimbursing me for the reasonable costs of collection. During the collection process, interest on the balance owed will continue to accrue at the rate described above.
+
+### Suspension for Nonpayment
+
+If any invoice remains unpaid more than fifteen (15) days after its due date, I may suspend work on your projects until your account is brought current. Any deadlines I have committed to will be extended to account for the suspension period.
+
 
 ### Termination Due to Inactivity
 
@@ -123,4 +128,4 @@ This contract shall be interpreted under the laws of the Commonwealth of Virgini
 
 This contract, together with any agreed-upon Scope of Work addenda or Change Orders, is the entire agreement between the Parties relating to the subject matter covered in the contract. The Parties will not be bound by or liable for any statement, writing, representation, promise, or understanding not set forth in this contract, an agreed-upon project proposal, or a Change Order.
 
-_[Remaining of Page Intentionally Blank; Signatures Follow]_
+_[Remainder of Page Intentionally Blank; Signatures Follow]_
